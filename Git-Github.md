@@ -16,7 +16,7 @@ git clone \<endereço_do_repositório\>
 
 ## Configurações importantes
 
- git config --global user.email \<email\> (remover flag global para salvar apenas no diretório)
+ git config --global user.email \<email\> (remover flag global para salvar apenas no diretório)  
 
 git config --global user.name \<nome\> (remover flag global para salvar apenas no diretório)
 
@@ -26,7 +26,7 @@ git config --global user.name \<nome\> (remover flag global para salvar apenas n
 
 #### Adicionando ao stage
 
-git add \<arquivos\>
+git add \<arquivos\>  
 git add \* (Adiciona todos os arquivos do diretório)
 
 #### Preparando o commit
