@@ -6,19 +6,19 @@
 
 git init 
 
-git remote add origin <endereço_do_repositório>
+git remote add origin \<endereço_do_repositório\>
 
 ### Importando o repositório
 
-git clone <endereço_do_repositório>
+git clone \<endereço_do_repositório\>
 
 
 
 ## Configurações importantes
 
- git config --global user.email <email> (remover flag global para salvar apenas no diretório)
+ git config --global user.email \<email\> (remover flag global para salvar apenas no diretório)
 
-git config --global user.name <nome> (remover flag global para salvar apenas no diretório)
+git config --global user.name \<nome\> (remover flag global para salvar apenas no diretório)
 
 
 
@@ -26,8 +26,8 @@ git config --global user.name <nome> (remover flag global para salvar apenas no 
 
 #### Adicionando ao stage
 
-git add <arquivos>
-git add * (Adiciona todos os arquivos do diretório)
+git add \<arquivos\>
+git add \* (Adiciona todos os arquivos do diretório)
 
 #### Preparando o commit
 
@@ -37,7 +37,7 @@ git commit -m "Messagem informativa"
 
 git push origin main
 
-git push <local> <branch>
+git push \<local\> \<branch\>
 
 
 
