@@ -42,6 +42,14 @@
 
 \<a target="\_blank" \>Link</a\> 
 
+\<img\> Imagens
 
+\<img src="img/image.jpg"\>
 
+\<img alt="Image from somewhere"\>
 
+\<ul\> Lista não ordenada
+
+\<ol\> Lista ordenada
+
+\<li\> Elemento da lista
