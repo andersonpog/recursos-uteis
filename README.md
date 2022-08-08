@@ -20,4 +20,4 @@
 <img src="https://www.browxy.com/learn/assets/images/favicon.ico" height="20"> [Browxy](https://www.browxy.com/)
 
 ## SQL Online
-<img src="http://sqlfiddle.com/favicon.ico" height="20"> [SQL Fiddle](http://sqlfiddle.com/
+<img src="http://sqlfiddle.com/favicon.ico" height="20"> [SQL Fiddle](http://sqlfiddle.com/)
