@@ -14,3 +14,5 @@
 <img src="https://statics.goorm.io/ide/site/lib/favicon-180.png" height="20"> [goormIDE](https://ide.goorm.io/)
 
 <img src="https://assets.website-files.com/62119daa3ab1f984ea54d658/62213cdfd4de2627ab60ecec_roundedcornerFavicon.png" height="20"> [Coding Rooms](https://www.codingrooms.com/)
+
+<img src="https://www.gitpod.io/favicon192.png" height="20"> [Gitpod](https://www.gitpod.io/)
