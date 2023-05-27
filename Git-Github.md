@@ -46,3 +46,9 @@ git push \<local\> \<branch\>
 git status (Exibe ciclo de vida dos arquivos)
 
 git remote -v (Exibe repositório conectado)
+
+## Problemas
+
+### Erro de proxy
+
+$ git config --global --unset http.proxy
