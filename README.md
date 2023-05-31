@@ -27,6 +27,12 @@
 ## QA
 <img src="https://planningpokeronline.com/favicon.ico" height="20"> [Planning Poker Online](https://planningpokeronline.com/)
 
+## Javascript
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" height="20"> [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+<img src="https://nodejs.org/static/images/favicons/favicon.png" height="20"> [Node](https://nodejs.org/)
+
 ## Java
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png?20210624193855" height="20"> [Java](https://www.java.com/)
