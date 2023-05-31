@@ -28,3 +28,5 @@
 ## PHP
 
 ### Frameworks
+
+<img src="https://fatfreeframework.com/gui/img/f3_fav_32.ico" height="20"> [Fat-Free Framework](https://fatfreeframework.com/)
