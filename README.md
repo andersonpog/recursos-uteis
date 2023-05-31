@@ -29,4 +29,8 @@
 
 ### Frameworks
 
-<img src="https://fatfreeframework.com/gui/img/f3_fav_32.ico" height="20"> [Fat-Free Framework](https://fatfreeframework.com/)
+<img src="https://laravel.com/img/favicon/favicon-32x32.png" height="20"> [Laravel](https://laravel.com/)
+
+<img src="https://laravel.com/img/favicon/favicon-32x32.png" height="20"> [Symfony](https://symfony.com/)
+
+<img src="https://symfony.com/favicons/favicon-16x16.png" height="20"> [Fat-Free Framework](https://fatfreeframework.com/)
