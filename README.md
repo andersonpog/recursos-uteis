@@ -2,6 +2,8 @@
 ## Editor de texto
 <img src="https://code.visualstudio.com/favicon.ico" height="20"> [Visual Studio Code](https://code.visualstudio.com/)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="20"> [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
 ## IDEs online
 <img src="https://replit.com/public/icons/apple-icon-180.png" height="20"> [Replit](https://replit.com/)
 
