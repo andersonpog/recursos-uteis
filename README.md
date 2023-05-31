@@ -29,6 +29,8 @@
 
 <img src="https://www.php.net/favicon-32x32.png" height="20"> [PHP](https://www.php.net/)
 
+<img src="https://www.php-fig.org/apple-touch-icon.png" height="20"> [PHP-FIG](https://www.php-fig.org/)
+
 ### Frameworks
 
 <img src="https://laravel.com/img/favicon/favicon-32x32.png" height="20"> [Laravel](https://laravel.com/)
