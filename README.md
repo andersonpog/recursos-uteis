@@ -27,6 +27,10 @@
 ## QA
 <img src="https://planningpokeronline.com/favicon.ico" height="20"> [Planning Poker Online](https://planningpokeronline.com/)
 
+## Java
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png?20210624193855" height="20"> [Java](https://www.java.com/)
+
 ## PHP
 
 <img src="https://www.php.net/favicon-32x32.png" height="20"> [PHP](https://www.php.net/)
