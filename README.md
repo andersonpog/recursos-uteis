@@ -27,6 +27,8 @@
 
 ## PHP
 
+<img src="https://www.php.net/favicon-32x32.png" height="20"> [PHP](https://www.php.net/)
+
 ### Frameworks
 
 <img src="https://laravel.com/img/favicon/favicon-32x32.png" height="20"> [Laravel](https://laravel.com/)
