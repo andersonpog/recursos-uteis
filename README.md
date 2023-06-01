@@ -33,6 +33,9 @@
 
 <img src="https://nodejs.org/static/images/favicons/favicon.png" height="20"> [Node](https://nodejs.org/)
 
+<img src="https://www.typescriptlang.org/favicon-32x32.png" height="20"> [Typescript](https://www.typescriptlang.org/)
+
+
 ## Java
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png?20210624193855" height="20"> [Java](https://www.java.com/)
