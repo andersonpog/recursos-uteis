@@ -35,6 +35,14 @@
 
 <img src="https://www.typescriptlang.org/favicon-32x32.png" height="20"> [Typescript](https://www.typescriptlang.org/)
 
+### Frameworks
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" height="20"> [React](https://react.dev/)
+
+<img src="https://vuejs.org/logo.svg" height="20"> [Vue](https://vuejs.org/)
+
+<img src="https://angular.io/assets/images/favicons/favicon-32x32.png" height="20"> [Angular](https://angular.io/)
+
 
 ## Java
 
