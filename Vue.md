@@ -14,11 +14,12 @@ console.log(message.value)
 
 ### Atributo
 ```javascript
-v-bind:atributo 
-:atributo
+v-bind:id 
+:id
 ```
 
 ### Evento
 ```javascript
-v-on
+v-on:click
+@click
 ```
