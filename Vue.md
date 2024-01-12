@@ -16,6 +16,8 @@ console.log(message.value)
 ```javascript
 v-bind:id 
 :id
+
+<div :id="dynamicId"></div>
 ```
 
 ### Evento
