@@ -13,7 +13,7 @@ console.log(message.value)
 ## Binds
 
 ### Atributo
-```javascript
+```vue
 v-bind:id 
 :id
 
@@ -21,7 +21,7 @@ v-bind:id
 ```
 
 ### Evento
-```javascript
+```vue
 v-on:click
 @click
 
@@ -29,7 +29,7 @@ v-on:click
 ```
 
 ### Two way
-```javascript
+```vue
 <input :value="text" @input="onInput">
 function onInput(e) {
   text.value = e.target.value
