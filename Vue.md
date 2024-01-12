@@ -13,8 +13,12 @@ console.log(message.value)
 ## Binds
 
 ### Atributo
-v-bind:atributo ou : atributo
+```javascript
+v-bind:atributo 
+:atributo
+```
 
 ### Evento
-
+```javascript
 v-on
+```
