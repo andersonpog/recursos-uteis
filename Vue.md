@@ -1,6 +1,6 @@
 ## Reativo
 
-```
+```vue
 const counter = reactive({
   count: 0
 })
