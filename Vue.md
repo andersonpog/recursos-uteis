@@ -1,5 +1,6 @@
 ## Reativo
 
+```
 const counter = reactive({
   count: 0
 })
@@ -8,7 +9,7 @@ console.log(counter.count)
 console.log(message.value)
 
 {{counter.count  message}}
-
+```
 ## Binds
 
 ### Atributo
