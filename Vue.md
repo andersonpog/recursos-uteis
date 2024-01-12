@@ -37,3 +37,9 @@ function onInput(e) {
 
 <input v-model="text">
 ```
+
+### Condicional
+```javascript
+<h1 v-if="awesome">Vue is awesome!</h1>
+<h1 v-else>Oh no 😢</h1>
+```
