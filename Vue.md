@@ -22,4 +22,6 @@ v-bind:id
 ```javascript
 v-on:click
 @click
+
+<button @click="increment">{{ count }}</button>
 ```
