@@ -27,3 +27,13 @@ v-on:click
 
 <button @click="increment">{{ count }}</button>
 ```
+
+### Two way
+```javascript
+<input :value="text" @input="onInput">
+function onInput(e) {
+  text.value = e.target.value
+}
+
+<input v-model="text">
+```
